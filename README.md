@@ -10,9 +10,6 @@ This repository contains the HTML code for a simple periodic table. The table is
 - [Contributing](#contributing)
 - [License](#license)
 
-## Preview
-![Periodic Table Screenshot](path_to_screenshot.png)
-
 ## Features
 - Fully responsive layout
 - Color-coded element groups
